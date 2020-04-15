@@ -10,3 +10,4 @@ kebabCase('this-is-a-test').should.equal('this-is-a-test')
 kebabCase('This is a test').should.equal('this-is-a-test')
 kebabCase('This  is a test').should.equal('this-is-a-test')
 
+console.log('...tests complete')
